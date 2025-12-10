@@ -1,4 +1,4 @@
- 
+
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
 html {
@@ -16,26 +16,26 @@ body {
   font-size: 12px;
 }
 .bg-container {
-  position: fixed; 
-  top: -50%; 
-  left: -50%; 
-  width: 200%; 
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 200%;
   height: 200%;
   z-index: -1;
 }
 
 .bg-container img {
-  position: absolute; 
-  top: 0; 
-  left: 0; 
-  right: 0; 
-  bottom: 0; 
-  margin: auto; 
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
   min-width: 50%;
   min-height: 50%;
   filter: blur(15px);
   -webkit-filter: blur(50px);
-  transform: scale(1.1); 
+  transform: scale(1.1);
 }
 
 .player-container {
@@ -141,7 +141,7 @@ h3 {
 /* Media Query: iPhone (Vertical) */
 @media screen and (max-width: 376px) {
   .player-container {
-    width: 95vw;
+    width: 85vw;
   }
 
   .img-container {
