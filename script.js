@@ -23,7 +23,7 @@ const songs = [
   },
   {
     path: "Media/bahram.mp3",
-    displayName: "Knoone Khorshid",
+    displayName: "Khoone Khorshid",
     artist: "Bahram ft Sorena",
     cover: "cover-art-music/Bahram.webp",
   },
