@@ -146,7 +146,6 @@ function setProgressBar(e) {
 
 
 playBtn.addEventListener("click", playSong);
-playBtn.addEventListener("touchstart", playSong);
 
 prevBtn.addEventListener("click", prevSong);
 prevBtn.addEventListener("touchstart", prevSong);
